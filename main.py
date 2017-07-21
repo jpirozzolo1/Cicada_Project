@@ -192,7 +192,7 @@ class cicada_rec(object):
 		print(extract_pred)
 
 cr = cicada_rec()
-cr.set_path('/Users/jamespirozzolo/Documents/MATLAB/Cicada')
+cr.set_path('/Users/jamespirozzolo/Documents/EngHonors/Internship/Programs/Project/Data')
 cr.set_im('two.jpg')
 cr.main()
 
